@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.HomeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.aboutName {
+  color: #551e53;
+  font-weight: bold;
+  font-size: 20px;
+}
+.para {
+  color: #555555;
+  font-size: 15px;
+}

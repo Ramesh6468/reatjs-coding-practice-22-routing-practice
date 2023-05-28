@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.HomeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.homeName {
+  color: #551e53;
+  font-weight: bold;
+  font-size: 20px;
+}

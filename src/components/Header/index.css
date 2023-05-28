@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.HedaerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.imgContainer {
+  display: flex;
+  justify-content: space-around;
+}
+.navItemList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.logoName {
+  color: #6d396b;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 10px;
+}
+.home {
+  color: #6d396b;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

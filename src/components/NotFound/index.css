@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.HomeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.notName {
+  color: #551e53;
+  font-weight: bold;
+  font-size: 20px;
+}
